@@ -13,15 +13,7 @@ Soy una profesional del desarrollo web con pasión por encontrar soluciones inno
 
 
 ## 🛠 Habilidades 
-Javascript
-HTML 
-CSS 
-React js
-Express.js
-Node.js
-MongoDB 
-Astro
-Tailwind
+Javascript, HTML, CSS, React js, Express.js, Node.js, MongoDB, Astro, Tailwind.
 
 
 
