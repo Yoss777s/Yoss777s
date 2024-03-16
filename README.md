@@ -4,7 +4,7 @@
 Soy una profesional del desarrollo web con pasión por encontrar soluciones innovadoras y creativas para los desafíos que se presentan en el desarrollo de aplicaciones web. Mi enfoque abarca tanto tecnologías frontend como backend, lo que me permite ofrecer soluciones completas y efectivas para los proyectos.
 
 
-<h2>👩🏻‍💻 Mis Proyectos</h2>
+<h2>👩🏻‍💻 Algunos de mis proyectos</h2>
 
   - [Portafolio Web: Astro, JavaScript, HTML, Tailwind CSS](https://github.com/Yoss777s/MyPortfolioyoss) 
   - [Aplicación Lista de Tareas: React, HTML, JavaScript, CSS, Chakra UI](https://github.com/Yoss777s/my-react-task-list-)
