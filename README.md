@@ -4,7 +4,7 @@
 Soy una profesional del desarrollo web con pasión por encontrar soluciones innovadoras y creativas para los desafíos que se presentan en el desarrollo de aplicaciones web. Mi enfoque abarca tanto tecnologías frontend como backend, lo que me permite ofrecer soluciones completas y efectivas para los proyectos.
 
 
-<h2>👩🏽‍💻 Mis Proyectos</h2>
+<h2>👩🏻‍💻 Mis Proyectos</h2>
 
   - [Portafolio Web: Astro, JavaScript, HTML, Tailwind CSS](https://github.com/Yoss777s/MyPortfolioyoss) 
   - [Aplicación Lista de Tareas: React, HTML, JavaScript, CSS, Chakra UI](https://github.com/Yoss777s/my-react-task-list-)
@@ -13,12 +13,20 @@ Soy una profesional del desarrollo web con pasión por encontrar soluciones inno
 
 
 ## 🛠 Habilidades 
-Javascript, HTML, CSS, React js, Express.js, Node.js, MongoDB, Astro, Tailwind.
+Javascript
+HTML 
+CSS 
+React js
+Express.js
+Node.js
+MongoDB 
+Astro
+Tailwind
 
 
-<h2> 🤳 Conecta conmigo:</h2>
 
-## 🔗 Links
+<h2> 🤳🏻 Conecta conmigo:</h2>
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yossijuarez-fullstackwebdeveloper.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yossi-juárez-fullstackdeveloper)
 
